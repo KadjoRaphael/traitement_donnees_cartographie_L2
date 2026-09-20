@@ -1,5 +1,6 @@
 ---
 title: Séance 6 - La discrétisation
+nav_order: 7
 ---
 
 # Séance 6 - La discrétisation des données quantitatives
