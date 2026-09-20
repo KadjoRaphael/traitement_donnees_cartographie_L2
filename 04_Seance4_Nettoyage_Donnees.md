@@ -1,5 +1,6 @@
 ---
 title: Séance 4 - Structurer et nettoyer les données
+nav_order: 5
 ---
 
 # Séance 4 - Structurer et nettoyer une base de données sous Excel
