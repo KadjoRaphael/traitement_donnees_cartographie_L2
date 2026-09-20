@@ -6,7 +6,7 @@ title: Introduction - L2 / Traitement des données et cartographie
 
 Bienvenue dans le cours **Traitement des données et cartographie** !
 
-*UE Spécialisation - Les savoir-faire approfondis des géographes* — L2 Géographie et aménagement, Université Paris 8, support de cours du semestre 1.
+*UE Spécialisation - Les savoir-faire approfondis des géographes* - L2 Géographie et aménagement, Université Paris 8, support de cours du semestre 1.
 
 ---
 
