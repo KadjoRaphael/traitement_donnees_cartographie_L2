@@ -121,21 +121,21 @@ Il faut ensuite rechercher et préparer les données permettant de l'observer.
 La démarche générale peut être résumée ainsi :
 
 **Phénomène à étudier**  
-↓  
+          ↓  
 **Collecte des données**  
-↓  
+          ↓  
 **Vérification des données**  
-↓  
+          ↓  
 **Organisation et préparation sous Excel**  
-↓  
+          ↓  
 **Analyse statistique**  
-↓  
+          ↓  
 **Choix de la représentation cartographique**  
-↓  
+          ↓  
 **Discrétisation si nécessaire**  
-↓  
+          ↓  
 **Réalisation et mise en page de la carte**  
-↓  
+          ↓  
 **Analyse et commentaire**
 
 Au cours du semestre, nous étudierons progressivement chacune de ces étapes.
