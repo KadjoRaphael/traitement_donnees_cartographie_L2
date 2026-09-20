@@ -1,6 +1,6 @@
 ---
 title: Séance 7 - Cartographie thématique sous Magrit
-nav_order: 8
+nav_order: 9
 ---
 
 # Séance 7 - Cartographie thématique sous Magrit
