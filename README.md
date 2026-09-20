@@ -62,7 +62,7 @@ Pour chaque séance, vous trouverez généralement :
 
 # 📚 Organisation du cours
 
-## Introduction — Présentation du cours
+## Introduction - Présentation du cours
 
 Cette partie présente :
 
