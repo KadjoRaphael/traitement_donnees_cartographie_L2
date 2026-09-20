@@ -331,7 +331,7 @@ Le support de la séance est disponible au format PDF :
 
 👉 [**Télécharger le support de la séance 1 (PDF)**](documents/Seance_1_Introduction_de_la_donnée_a_la_carte.pdf)
 
-Ce document correspond à la partie **« Séance 1 — Introduction : de la donnée à la carte »**.
+Ce document correspond à la partie **« Séance 1 - Introduction : de la donnée à la carte »**.
 
 ---
 
