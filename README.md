@@ -357,7 +357,7 @@ Vous pouvez maintenant commencer.
 👉 **[Accéder à l'introduction du cours](00_Introduction.md)**
 
 Puis suivez les séances dans l'ordre à partir de la
-**Séance 1 — De la donnée à la carte**.
+**Séance 1 - De la donnée à la carte**.
 
 ---
 
