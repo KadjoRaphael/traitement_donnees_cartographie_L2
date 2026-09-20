@@ -1,6 +1,6 @@
 ---
 title: Séance 2 - Sources et types de données
-nav_order: 3
+nav_order: 4
 ---
 
 # Séance 2 - Sources et types de données géographiques
