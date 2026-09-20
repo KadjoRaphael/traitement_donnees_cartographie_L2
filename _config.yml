@@ -1,0 +1,26 @@
+title: L2 / Traitement des données et cartographie
+description: Support de cours - Traitement des données et cartographie (Licence 2 Géographie et aménagement, Université Paris 8)
+author: Kadjo Raphaël Kobenan
+
+remote_theme: carlosperate/jekyll-theme-rtd
+
+plugins:
+  - jekyll-remote-theme
+
+# Réglages du thème
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
+hljs_style: github-gist
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
