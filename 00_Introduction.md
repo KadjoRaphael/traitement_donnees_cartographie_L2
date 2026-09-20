@@ -85,4 +85,4 @@ Contrôle continu intégral, en trois évaluations :
 
 ## Contact
 
-Kadjo Raphaël KOBENAN — <raphael.kobenan@gmail.com>
+Kadjo Raphaël KOBENAN - <raphael.kobenan@gmail.com>
