@@ -337,7 +337,7 @@ Ce document correspond à la partie **« Séance 1 — Introduction : de la donn
 
 # ✏️ Données et énoncé
 
-### TD1 — Analyse critique de cartes thématiques
+### TD1 - Analyse critique de cartes thématiques
 
 L'activité consiste à analyser de manière critique **2 à 3 cartes thématiques**
 issues de la presse, d'un atlas ou d'une publication institutionnelle.
