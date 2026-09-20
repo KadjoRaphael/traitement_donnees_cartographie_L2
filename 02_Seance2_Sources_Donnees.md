@@ -584,12 +584,41 @@ cartographique.
 
 # 📄 Support de cours
 
-Le support complet du cours est disponible au format PDF :
+Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de cours complet (PDF)**](documents/Traitement_donnees_cartographie_L2.pdf)
+👉 [**Télécharger le support de la séance 2 (PDF)**](documents/Seance_2_Sources_et_types_de_donnees_geographiques.pdf)
 
-Pour cette séance, consultez la partie
-**« Séance 2 - Sources et types de données géographiques »**.
+Ce document correspond à la partie **« Séance 2 - Sources et types de données géographiques »**.
+
+---
+
+# ✏️ Données et énoncé
+
+### TD2 - Recherche et sélection de données géographiques
+
+Les étudiant·es recherchent sur le site de l'**INSEE** ou de **data.gouv.fr**
+un jeu de données disponible à l'échelle communale ou départementale.
+
+L'objectif est d'apprendre à :
+
+- identifier une source de données fiable ;
+- comprendre ce que mesurent les variables sélectionnées ;
+- identifier la date et l'échelle géographique des données ;
+- distinguer les valeurs absolues des valeurs relatives ;
+- télécharger et enregistrer un fichier de données exploitable.
+
+👉 [**Accéder au site de l'INSEE**](https://www.insee.fr/)
+
+👉 [**Accéder à data.gouv.fr**](https://www.data.gouv.fr/)
+
+---
+
+# ✅ À l'issue du TD
+
+À la fin de cette activité, les étudiant·es doivent être capables de
+**rechercher, télécharger et enregistrer un fichier de données propre et
+exploitable**, qui pourra ensuite être utilisé pour les calculs statistiques
+de la séance 3.
 
 ---
 
@@ -601,8 +630,12 @@ Pour cette séance, consultez la partie
 
 ## ➡️ Séance suivante
 
-La prochaine séance sera consacrée à la
-**statistique descriptive univariée**.
+La prochaine séance sera consacrée à la **statistique descriptive univariée**.
+
+Les données sélectionnées et préparées au cours de cette séance pourront être
+mobilisées pour réaliser les premiers traitements statistiques.
+
+👉 [**Continuer vers la séance 3 - Statistique descriptive univariée**](03_Seance3_Statistique_Descriptive.md)
 
 Nous apprendrons à résumer et à décrire un jeu de données à l'aide
 d'indicateurs tels que :
