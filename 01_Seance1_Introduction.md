@@ -331,7 +331,7 @@ Le support complet du cours est disponible au format PDF :
 
 👉 [**Télécharger le support de cours complet (PDF)**](documents/Traitement_donnees_cartographie_L2.pdf)
 
-Pour cette séance, consultez la partie **« Séance 1 — Introduction :
+Pour cette séance, consultez la partie **« Séance 1 - Introduction :
 de la donnée à la carte »**.
 
 ---
