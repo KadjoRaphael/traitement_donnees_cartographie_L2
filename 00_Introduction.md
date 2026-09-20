@@ -78,8 +78,9 @@ Contrôle continu intégral, en trois évaluations :
 
 ## Ressources
 
-- [Support de cours complet (PDF)](documents/Traitement_donnees_cartographie_L2.pdf)
+- [Introduction du cours (PDF)](documents/Introduction.pdf)
 - [Bibliographie et liens utiles](09_Ressources.html)
+- **Support de cours complet (PDF)** — disponible à la fin de l'ensemble des séances.
 
 ---
 
