@@ -1,5 +1,6 @@
 ---
 title: Séance 5 - La sémiologie graphique
+nav_order: 6
 ---
 
 # Séance 5 - La sémiologie graphique
