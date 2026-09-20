@@ -76,7 +76,7 @@ Cette partie présente :
 
 ---
 
-## Séance 1 — De la donnée à la carte
+## Séance 1 - De la donnée à la carte
 
 Cette première séance présente la logique générale du cours.
 
@@ -98,7 +98,7 @@ sur une carte.
 
 ---
 
-## Séance 2 — Sources et types de données géographiques
+## Séance 2 - Sources et types de données géographiques
 
 Avant d'analyser une donnée, il faut comprendre **ce qu'elle représente**.
 
@@ -119,7 +119,7 @@ et comment vérifier leur source, leur date, leur définition et leur
 
 ---
 
-## Séance 3 — Statistique descriptive univariée
+## Séance 3 - Statistique descriptive univariée
 
 Une fois les données identifiées, il faut apprendre à les **décrire et
 à les résumer**.
@@ -147,7 +147,7 @@ de mieux comprendre la distribution des données avant de les cartographier.
 
 ---
 
-## Séance 4 — Structurer et nettoyer une base de données géographique
+## Séance 4 - Structurer et nettoyer une base de données géographique
 
 Des données mal organisées peuvent produire des erreurs lors de l'analyse
 ou de la cartographie.
@@ -179,7 +179,7 @@ L'objectif est d'obtenir un fichier propre et structuré pouvant ensuite
 
 ---
 
-## Séance 5 — Sémiologie graphique
+## Séance 5 - Sémiologie graphique
 
 Une carte ne consiste pas simplement à placer des données sur un fond
 de carte.
@@ -211,7 +211,7 @@ nature de la donnée :
 
 ---
 
-## Séance 6 — Discrétisation des données quantitatives
+## Séance 6 - Discrétisation des données quantitatives
 
 Pour réaliser certaines cartes thématiques, notamment les cartes
 choroplèthes, il est nécessaire de regrouper les valeurs en classes.
@@ -232,7 +232,7 @@ des représentations différentes selon la méthode de discrétisation choisie.
 
 ---
 
-## Séance 7 — Cartographie thématique avec Magrit
+## Séance 7 - Cartographie thématique avec Magrit
 
 Après avoir appris à préparer, analyser et représenter les données,
 nous passerons à la réalisation des cartes.
@@ -248,7 +248,7 @@ cartographique.
 
 ---
 
-## Séance 8 — Commenter une carte et préparer le dossier final
+## Séance 8 - Commenter une carte et préparer le dossier final
 
 Produire une carte ne constitue pas la dernière étape du travail.
 
@@ -280,13 +280,15 @@ Le tableur sera principalement utilisé pour :
 - vérifier les données ;
 - préparer les fichiers avant leur utilisation cartographique.
 
-## Magrit
+## 🗺️ Magrit
 
 **Magrit** sera utilisé pour réaliser les cartes thématiques.
 
 Il permettra notamment de mettre en application les notions étudiées
 dans les séances consacrées à la sémiologie graphique, à la
 discrétisation et à la cartographie.
+
+👉 **Accéder à Magrit :** [https://magrit.cnrs.fr/](https://magrit.cnrs.fr/)
 
 ---
 
@@ -360,6 +362,6 @@ Puis suivez les séances dans l'ordre à partir de la
 ---
 
 **Traitement des données et cartographie**  
-Licence 2 — Géographie et aménagement  
+Licence 2 - Géographie et aménagement  
 Université Paris 8  
 Année universitaire 2026-2027
