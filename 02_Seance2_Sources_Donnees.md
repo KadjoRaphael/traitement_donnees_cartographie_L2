@@ -315,13 +315,9 @@ Ces principes seront approfondis lors de la séance consacrée à la
 Représenter directement des **effectifs** par des aplats de couleurs
 est une erreur cartographique fréquente.
 
-Avant de choisir une représentation, posez-vous toujours la question :
+Avant de choisir une représentation, posez-vous toujours la question : > **« Est-ce que je représente une quantité ou un rapport ? »**
 
-> **« Est-ce que je représente une quantité ou un rapport ? »**
-
-Autrement dit :
-
-**nombre d'habitants → quantité → valeur absolue**
+Autrement dit : **nombre d'habitants → quantité → valeur absolue**
 
 mais :
 
