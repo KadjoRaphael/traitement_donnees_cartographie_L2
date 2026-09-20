@@ -1,5 +1,6 @@
 ---
 title: Séance 3 - Statistique descriptive univariée
+nav_order: 4
 ---
 
 # Séance 3 - Statistique descriptive univariée
