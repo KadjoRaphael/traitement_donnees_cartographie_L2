@@ -142,9 +142,7 @@ Exemples :
 - distance ;
 - superficie.
 
-Une température peut, par exemple, être de :
-
-**12 °C, 12,5 °C, 12,57 °C...**
+Une température peut, par exemple, être de : **12 °C, 12,5 °C, 12,57 °C...**
 
 ---
 
@@ -171,7 +169,7 @@ les variables.
 
 Par exemple, calculer la moyenne d'une variable comme :
 
-**forêt — espace agricole — espace urbain**
+**forêt - espace agricole - espace urbain**
 
 n'aurait aucun sens.
 
@@ -230,9 +228,7 @@ Exemples :
 
 ### Exemple
 
-Une commune compte :
-
-**25 000 habitants**
+Une commune compte : **25 000 habitants**
 
 Il s'agit directement d'une quantité de personnes.
 
@@ -476,12 +472,12 @@ qui ne mesurent pas exactement la même chose.
 Avant de télécharger et d'utiliser un jeu de données, prenez l'habitude
 de vérifier :
 
-1. **La source** — Qui produit les données ?
-2. **La définition** — Que mesure exactement la variable ?
-3. **La date** — De quelle année ou période s'agit-il ?
-4. **L'unité** — Habitants, %, km², euros, etc.
-5. **L'échelle géographique** — Commune, département, région, pays...
-6. **La méthode** — Comment la donnée a-t-elle été collectée ou calculée ?
+1. **La source** - Qui produit les données ?
+2. **La définition** - Que mesure exactement la variable ?
+3. **La date** - De quelle année ou période s'agit-il ?
+4. **L'unité** - Habitants, %, km², euros, etc.
+5. **L'échelle géographique** - Commune, département, région, pays...
+6. **La méthode** - Comment la donnée a-t-elle été collectée ou calculée ?
 
 Ces informations seront importantes tout au long du cours.
 
@@ -593,7 +589,7 @@ Le support complet du cours est disponible au format PDF :
 👉 [**Télécharger le support de cours complet (PDF)**](documents/Traitement_donnees_cartographie_L2.pdf)
 
 Pour cette séance, consultez la partie
-**« Séance 2 — Sources et types de données géographiques »**.
+**« Séance 2 - Sources et types de données géographiques »**.
 
 ---
 
