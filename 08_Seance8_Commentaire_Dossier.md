@@ -1,5 +1,6 @@
 ---
 title: Séance 8 - Commentaire de carte et dossier final
+nav_order: 9
 ---
 
 # Séance 8 - Commenter une carte et construire son dossier cartographique
