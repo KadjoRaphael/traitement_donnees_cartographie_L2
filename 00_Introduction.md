@@ -79,7 +79,7 @@ Contrôle continu intégral, en trois évaluations :
 
 ## Ressources
 
-- [Introduction du cours (PDF)](documents/Introduction.pdf)
+- [Présentation générale du cours (PDF)](documents/Presentation_generale_du_cours.pdf)
 - [Bibliographie et liens utiles](09_Ressources.html)
 - **Support de cours complet (PDF)** - disponible à la fin de l'ensemble des séances.
 
