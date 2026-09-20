@@ -1,6 +1,6 @@
 ---
 title: Séance 1 - De la donnée à la carte
- nav_order: 3
+nav_order: 3
 ---
 
 # Séance 1 - Introduction : de la donnée à la carte
