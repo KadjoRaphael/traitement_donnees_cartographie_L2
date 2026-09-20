@@ -327,12 +327,30 @@ qu'une carte résulte de choix concernant les données et leur représentation.
 
 # 📄 Support de cours
 
-Le support complet du cours est disponible au format PDF :
+Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de cours complet (PDF)**](documents/Traitement_donnees_cartographie_L2.pdf)
+👉 [**Télécharger le support de la séance 1 (PDF)**](documents/Seance_1_Introduction_de_la_donnée_a_la_carte.pdf)
 
-Pour cette séance, consultez la partie **« Séance 1 - Introduction :
-de la donnée à la carte »**.
+Ce document correspond à la partie **« Séance 1 — Introduction : de la donnée à la carte »**.
+
+---
+
+# ✏️ Données et énoncé
+
+### TD1 — Analyse critique de cartes thématiques
+
+L'activité consiste à analyser de manière critique **2 à 3 cartes thématiques**
+issues de la presse, d'un atlas ou d'une publication institutionnelle.
+
+👉 [**Télécharger l'énoncé du TD1 (PDF)**](documents/TD1_Exercices_cartes_thématiques.pdf)
+
+---
+
+# ✅ Correction du TD
+
+La correction sera mise à disposition **après la séance**.
+
+👉 [**Télécharger la correction du TD1 (PDF)**](documents/TD1_Cartes_thématiques.pdf)
 
 ---
 
