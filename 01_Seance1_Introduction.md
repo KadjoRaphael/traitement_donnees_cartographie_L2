@@ -351,7 +351,7 @@ issues de différentes sources.
 
 La correction est disponible au format PDF :
 
-👉 [**Télécharger la correction du TD1 (PDF)**](Correction_Seance1_TD_Activite_pratique_L2.pdf)
+👉 [**Télécharger la correction du TD1 (PDF)**](documents/Correction_Seance1_TD_Activite_pratique_L2.pdf)
 
 ---
 
