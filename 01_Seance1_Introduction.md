@@ -343,7 +343,7 @@ Ce document correspond à la partie **« Séance 1 - Introduction : de la donné
 L'activité consiste à analyser de manière critique **2 à 3 cartes thématiques**
 issues de la presse, d'un atlas ou d'une publication institutionnelle.
 
-👉 [**Télécharger l'énoncé du TD1 (PDF)**](documents/TD1_Exercices_cartes_thématiques.pdf)
+👉 [**Télécharger l'énoncé du TD1 (PDF)**](documents/Exercice_Seance1_TD_Activite_pratique_L2.pdf)
 
 ---
 
@@ -351,7 +351,7 @@ issues de la presse, d'un atlas ou d'une publication institutionnelle.
 
 La correction sera mise à disposition **après la séance**.
 
-👉 [**Télécharger la correction du TD1 (PDF)**](documents/TD1_Cartes_thématiques.pdf)
+👉 [**Télécharger la correction du TD1 (PDF)**](Correction_Seance1_TD_Activite_pratique_L2.pdf)
 
 ---
 
