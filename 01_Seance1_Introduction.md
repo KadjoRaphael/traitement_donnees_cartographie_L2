@@ -341,7 +341,7 @@ Ce document correspond à la partie **« Séance 1 - Introduction : de la donné
 ### TD1 - Analyse critique de cartes thématiques
 
 L'activité consiste à analyser de manière critique **2 à 3 cartes thématiques**
-issues de la presse, d'un atlas ou d'une publication institutionnelle.
+issues de différentes sources.
 
 👉 [**Télécharger l'énoncé du TD1 (PDF)**](documents/Exercice_Seance1_TD_Activite_pratique_L2.pdf)
 
@@ -349,7 +349,7 @@ issues de la presse, d'un atlas ou d'une publication institutionnelle.
 
 # ✅ Correction du TD
 
-La correction sera mise à disposition **après la séance**.
+La correction est disponible au format PDF :
 
 👉 [**Télécharger la correction du TD1 (PDF)**](Correction_Seance1_TD_Activite_pratique_L2.pdf)
 
