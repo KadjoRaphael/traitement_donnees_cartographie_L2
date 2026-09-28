@@ -583,7 +583,7 @@ cartographique.
 
 Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de la séance 2 (PDF)**](documents/XSeance_2_Sources_et_types_de_donnees_geographiques.pdf)
+👉 [**Télécharger le support de la séance 2 (PDF)**](documents/Seance_2_Sources_et_types_de_donnees_geographiques.pdf)
 
 Ce document correspond à la partie **« Séance 2 - Sources et types de données géographiques »**.
 
@@ -610,7 +610,7 @@ L'objectif est d'apprendre à :
 
 La fiche de la séance pour le mini-atelier de 2 h 30, à laquelle vous devrez répondre en utilisant les données téléchargées depuis ces sites, est disponible au format DOCX :
 
-👉 [**Télécharger le support de la séance 2 (DOCX)**](documents/XExercice_seance2_L2.docx).
+👉 [**Télécharger le support de la séance 2 (DOCX)**](documents/Exercice_seance2_L2.docx).
 
 ---
 
