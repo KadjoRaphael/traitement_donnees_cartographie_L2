@@ -610,7 +610,7 @@ L'objectif est d'apprendre à :
 
 La fiche de la séance pour le mini-atelier de 2 h 30, à laquelle vous devrez répondre en utilisant les données téléchargées depuis ces sites, est disponible au format DOCX :
 
-👉 [**Télécharger le support de la séance 2 (DOCX)**](documents/XExercice_seance 1_L2.docx).
+👉 [**Télécharger le support de la séance 2 (DOCX)**](documents/XExercice_seance2_L2.docx).
 
 ---
 
