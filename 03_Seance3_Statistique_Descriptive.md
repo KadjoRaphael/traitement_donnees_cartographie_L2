@@ -390,7 +390,7 @@ Il s'agit surtout de comprendre **ce que les résultats statistiques nous appren
 
 Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de la séance 3 (PDF)**](documents/Seance3_Statistique_descriptive.pdf)
+👉 [**Télécharger le support de la séance 3 (PDF)**](Xdocuments/Seance3_Statistique_descriptive.pdf)
 
 Ce document correspond à la partie **« Séance 3 - Statistique descriptive univariée »**.
 
@@ -402,7 +402,7 @@ Ce document correspond à la partie **« Séance 3 - Statistique descriptive uni
 
 Le TD consiste à analyser un jeu de données sociodémographiques et à calculer les principaux indicateurs étudiés pendant la séance.
 
-👉 [**Télécharger le jeu de données du TD de la séance 3 (Excel)**](documents/Activite_pratique.xlsx)
+👉 [**Télécharger le jeu de données du TD de la séance 3 (Excel)**](Xdocuments/Activite_pratique.xlsx)
 
 ---
 
@@ -410,7 +410,7 @@ Le TD consiste à analyser un jeu de données sociodémographiques et à calcule
 
 La correction du TD sera disponible ici :
 
-👉 [**Télécharger la correction du TD de la séance 3 (Excel)**](documents/Correction_activite_pratique.xlsx)
+👉 [**Télécharger la correction du TD de la séance 3 (Excel)**](Xdocuments/Correction_activite_pratique.xlsx)
 
 ---
 
