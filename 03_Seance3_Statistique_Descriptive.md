@@ -402,7 +402,7 @@ Ce document correspond à la partie **« Séance 3 - Statistique descriptive uni
 
 Le TD consiste à analyser un jeu de données sociodémographiques et à calculer les principaux indicateurs étudiés pendant la séance.
 
-👉 [**Télécharger le jeu de données du TD de la séance 3 (Excel)**](Xdocuments/Activite_pratique.xlsx)
+👉 [**Télécharger le jeu de données du TD de la séance 3 (Excel)**](documents/Activite_pratique.xlsx)
 
 ---
 
