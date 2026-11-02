@@ -390,7 +390,7 @@ Il s'agit surtout de comprendre **ce que les résultats statistiques nous appren
 
 Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de la séance 3 (PDF)**](Xdocuments/Seance3_Statistique_descriptive.pdf)
+👉 [**Télécharger le support de la séance 3 (PDF)**](documents/Seance3_Statistique_descriptive.pdf)
 
 Ce document correspond à la partie **« Séance 3 - Statistique descriptive univariée »**.
 
