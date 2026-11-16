@@ -104,7 +104,7 @@ Export au format **CSV** (Comma-Separated Values). Vérification finale :
 
 Le support de la séance est disponible au format PDF :
 
-👉 [**Télécharger le support de la séance 4 (PDF)**](documents/Seance4_Structurer_et_nettoyer_une_BD_ geographique.pdf)
+👉 [**Télécharger le support de la séance 4 (PDF)**](documents/Seance4_Structurer_et_nettoyer_une_BD_geographique.pdf)
 
 Ce document correspond à la partie **« Séance 4 - Structurer et nettoyer une base de données géographique sous Excel »**.
 
@@ -125,6 +125,6 @@ La correction du TD4 est disponible ici :
 👉 [**Télécharger la correction du TD de la séance 4 (Excel)**](XCorrection_exercice_Seance4_Structurer_nettoyer_une_BD.xlsx)
 
 👉 [**Télécharger le fichier structuré du TD de la séance 4, prêt à être associé à un
-fond de carte dans Magrit (Excel)**](Xdepartments_magrit.csv)
+fond de carte dans Magrit (CSV)**](Xdepartments_magrit.csv)
 
 ---
