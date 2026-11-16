@@ -125,6 +125,6 @@ La correction du TD4 est disponible ici :
 👉 [**Télécharger la correction du TD de la séance 4 (Excel)**](XCorrection_exercice_Seance4_Structurer_nettoyer_une_BD.xlsx)
 
 👉 [**Télécharger le fichier structuré du TD de la séance 4, prêt à être associé à un
-fond de carte dans Magrit (Excel)**](XCorrection_exercice_Seance4_Structurer_nettoyer_une_BD.xlsx)
+fond de carte dans Magrit (Excel)**](Xdepartments_magrit.csv)
 
 ---
