@@ -98,14 +98,33 @@ Export au format **CSV** (Comma-Separated Values). Vérification finale :
 
 *À la fin du TD : un fichier propre, structuré, prêt à être associé à un fond de carte dans Magrit.*
 
-## Support de cours
+---
 
-[Support de cours complet (PDF)](documents/Traitement_donnees_cartographie_L2.pdf) — voir la section *Séance 4*.
+# 📄 Support de cours
 
-## Données et énoncé
+Le support de la séance est disponible au format PDF :
 
-*À venir.* (Déposer les fichiers dans `documents/seance4/` puis ajouter le lien ici.)
+👉 [**Télécharger le support de la séance 4 (PDF)**](documents/Seance4_Structurer_et_nettoyer_une_BD_ geographique.pdf)
 
-## Correction
+Ce document correspond à la partie **« Séance 4 - Structurer et nettoyer une base de données géographique sous Excel »**.
 
-*À venir.*
+---
+
+# ✏️ Données et énoncé
+
+### TD4 - Structurer et nettoyer une base de données géographique sous Excel
+
+👉 [**Télécharger le jeu de données du TD de la séance 4 (Excel)**](Exercice_Seance4_Structurer_nettoyer_une_base_de_donnees.xlsx)
+
+---
+
+# ✅ Correction du TD
+
+La correction du TD4 est disponible ici :
+
+👉 [**Télécharger la correction du TD de la séance 4 (Excel)**](XCorrection_exercice_Seance4_Structurer_nettoyer_une_BD.xlsx)
+
+👉 [**Télécharger le fichier structuré du TD de la séance 4, prêt à être associé à un
+fond de carte dans Magrit (Excel)**](XCorrection_exercice_Seance4_Structurer_nettoyer_une_BD.xlsx)
+
+---
